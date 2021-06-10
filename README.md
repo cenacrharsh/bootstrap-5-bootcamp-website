@@ -2,6 +2,8 @@
 
 [Website Demo](https://cenacrharsh.github.io/bootstrap-5-bootcamp-website/)
 
+![ss.png](./ss.png)
+
 ## Useful Tips:
 
 - Images used are downloaded from [unDraw](https://undraw.co/)
